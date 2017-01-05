@@ -1,4 +1,4 @@
-//
+// Progamın son hali
 //  ViewController.swift
 //  Mrt Collector
 //
