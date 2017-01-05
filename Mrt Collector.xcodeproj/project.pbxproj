@@ -13,6 +13,8 @@
 		D1BF06971E1E720600CADFD3 /* Mrt_Collector.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D1BF06951E1E720600CADFD3 /* Mrt_Collector.xcdatamodeld */; };
 		D1BF06991E1E720600CADFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1BF06981E1E720600CADFD3 /* Assets.xcassets */; };
 		D1BF069C1E1E720600CADFD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1BF069A1E1E720600CADFD3 /* LaunchScreen.storyboard */; };
+		D1BF06A41E1E7C5200CADFD3 /* Murat_Olcay_goldwing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D1BF06A31E1E7C5200CADFD3 /* Murat_Olcay_goldwing.jpg */; };
+		D1BF06A61E1E7D8E00CADFD3 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BF06A51E1E7D8E00CADFD3 /* GameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D1BF06981E1E720600CADFD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1BF069B1E1E720600CADFD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D1BF069D1E1E720600CADFD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1BF06A31E1E7C5200CADFD3 /* Murat_Olcay_goldwing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Murat_Olcay_goldwing.jpg; path = "Mrt Collector/Murat_Olcay_goldwing.jpg"; sourceTree = "<group>"; };
+		D1BF06A51E1E7D8E00CADFD3 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,7 @@
 			children = (
 				D1BF068D1E1E720600CADFD3 /* Mrt Collector */,
 				D1BF068C1E1E720600CADFD3 /* Products */,
+				D1BF06A31E1E7C5200CADFD3 /* Murat_Olcay_goldwing.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +63,7 @@
 			children = (
 				D1BF068E1E1E720600CADFD3 /* AppDelegate.swift */,
 				D1BF06901E1E720600CADFD3 /* ViewController.swift */,
+				D1BF06A51E1E7D8E00CADFD3 /* GameViewController.swift */,
 				D1BF06921E1E720600CADFD3 /* Main.storyboard */,
 				D1BF06981E1E720600CADFD3 /* Assets.xcassets */,
 				D1BF069A1E1E720600CADFD3 /* LaunchScreen.storyboard */,
@@ -128,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1BF069C1E1E720600CADFD3 /* LaunchScreen.storyboard in Resources */,
+				D1BF06A41E1E7C5200CADFD3 /* Murat_Olcay_goldwing.jpg in Resources */,
 				D1BF06991E1E720600CADFD3 /* Assets.xcassets in Resources */,
 				D1BF06941E1E720600CADFD3 /* Main.storyboard in Resources */,
 			);
@@ -140,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1BF06A61E1E7D8E00CADFD3 /* GameViewController.swift in Sources */,
 				D1BF06911E1E720600CADFD3 /* ViewController.swift in Sources */,
 				D1BF068F1E1E720600CADFD3 /* AppDelegate.swift in Sources */,
 				D1BF06971E1E720600CADFD3 /* Mrt_Collector.xcdatamodeld in Sources */,
